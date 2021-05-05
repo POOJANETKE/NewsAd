@@ -1,0 +1,33 @@
+backgroundimage{
+
+    background-image: url("../Component/aboutus.jpg");
+    height: 100px;
+    margin-top: 0px;
+}
+.img{
+    margin-top: 100px;
+}
+.cardcontent{
+    margin-left: 300px;
+    background-color: thistle;
+    height: 300px;
+    width: 500px;
+}
+#main_content {
+    background-image: url("../Component/aboutus.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 1540px;
+    height: 640px;
+    background-color: #2185C5;
+   
+  }
+  .top-left {
+    background-color: rgb(8, 6, 8);
+    color: rgb(88, 177, 212);
+    width: 650px;
+    height: 350px;
+    float: right;
+    margin-right: 440px;
+    margin-top:150px;
+  }

@@ -1,0 +1,91 @@
+.cardimg{
+    width: 45%;
+    height: 40px;
+}
+
+
+
+
+.pooja11{
+  
+    margin-top: 120px;
+    margin-left: 400px;
+    margin-bottom: 100px;
+}
+
+.card-container11{
+    
+    width: 290px;
+    height: 400px;
+    background-color : linear-gradient(45deg,#ffbc00,#ff0058);
+    box-shadow: 0px 0px 15px -5px;
+    text-align: center;
+    transition: 0.5s;
+    animation: ease-in-out;
+}
+
+
+.card-container11:hover{
+    transform : scale(1.1);
+    box-shadow:0px 0px 15px 0px
+}
+
+
+
+.card-container22{
+   
+    width: 290px;
+    height: 400px;
+    box-shadow: 0px 0px 15px -5px;
+    text-align: center;
+    transition: 0.5s;
+    animation: ease-in-out;
+}
+
+
+.card-container22:hover{
+    transform : scale(1.1);
+    box-shadow:0px 0px 15px 0px
+}
+
+.welcome{
+     
+    color: whitesmoke;
+    
+    animation: slideMe .70s ease-in;
+    margin-right: 430px;
+}
+
+@keyframes slideMe{
+    0%{
+        transform : skewX(53deg) translateX(-500px);
+    }
+     
+    100%{
+        transform: sj=kew(0deg);
+    }
+
+}
+
+
+
+.cardbody{
+    background: linear-gradient(to right, #ffff99 41%, #cc6600 100%);
+}
+
+.update{
+    margin-top: 35px;
+}
+
+.img-fluid{
+    margin-top: 0px;
+}
+
+.content{
+margin-top: 400px;
+margin-bottom: 0px;
+}
+
+.pooja{
+    margin-top: 0px;
+}

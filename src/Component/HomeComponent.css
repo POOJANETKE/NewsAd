@@ -1,0 +1,32 @@
+.button{
+    background-color: #1a0b6b; /* Green */
+    width: 13em;
+    height: 4em;
+    font-size: 13px;
+     border: white;
+     color: white;
+     padding: 16px 32px;
+     text-align: center;
+     text-decoration: none;
+     display: inline-block;
+     font-size: 16px;
+     margin: 4px 2px;
+     transition-duration: 0.4s;
+     cursor: pointer;
+   }
+   .button1 {
+       background-color: transparent;
+       color:rgb(14, 14, 15);
+       border: 2px solid rgb(8, 8, 8);
+
+     }
+     
+     .button1:hover {
+       background-color: #f4f6f7;
+       color: rgb(17, 16, 15);
+     }
+   
+     #bookNow {
+       margin-top: 230px;
+       border-radius: 4px;
+     }
